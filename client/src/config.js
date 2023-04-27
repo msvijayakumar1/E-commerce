@@ -1,1 +1,1 @@
-export const API = 'http://localhost:5000/api' ;
+export const API = 'https://e-commerce-backend-dq8h.onrender.com/api' ;
